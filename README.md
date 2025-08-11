@@ -29,6 +29,19 @@ Quick Guide:
 
 https://github.com/user-attachments/assets/9d09d84a-a783-42f4-a2e8-923bbc7c27b2
 
+PROJECT 4: STUDYSYNC (RESPONSIVE EDUCATION WEBSITE)
+
+Developed a responsive educational website using HTML and CSS, featuring hero-section, features, newsletter and footer section. 
+
+Deployed Link: https://studysync-frontend.netlify.app/
+
+Quick Guide: 
+
+https://github.com/user-attachments/assets/9d0c5bb3-c0ed-4d95-b7f4-1facd7cdad78
+
+
+
+
 
 
 
